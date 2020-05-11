@@ -1,8 +1,2 @@
-line2
-cc
-line2
-rr
-vv
-bb
-xxx
-kerem1
+bbb
+bbb
